@@ -1,0 +1,24 @@
+{
+  "name": "iqbot",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "iqbot.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "tmi.js": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MWAlexisL/iqbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MWAlexisL/iqbot/issues"
+  },
+  "homepage": "https://github.com/MWAlexisL/iqbot#readme"
+}
